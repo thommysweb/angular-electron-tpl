@@ -10,6 +10,10 @@ What I've done after ```ng new angular-electron-tpl```:
 ```
 * Set 4 spaces instead of 2.
 * Removed RxJS from the import blacklist.
+* Created ```src/electron.js```
+* ```ng build``` or ```npm run build``` puts output in view/.
+* ```npm start``` runs ```electron .```, which loads ```view/index.html```.
+* ```npm run live``` runs ```electron . -live```, which loads ```127.0.0.1:4200```.
 <br> 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.

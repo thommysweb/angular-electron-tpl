@@ -8,6 +8,7 @@ What I've done after ```ng new angular-electron-tpl```:
 ? Would you like to add Angular routing? YES
 ? Which stylesheet format would you like to use? CSS
 ```
+
 <br> 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.

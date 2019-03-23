@@ -23,7 +23,6 @@ function createWindow() {
         show: false,
         darkTheme: true,
     });
-    console.log(process.argv);
     if (process.argv.includes('-live')) {
         // Live Server, ng serve must run.
         mainWindow.loadURL('http://127.0.0.1:4200');

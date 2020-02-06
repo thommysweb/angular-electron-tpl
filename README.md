@@ -2,7 +2,7 @@
 
 Boilerplate for Desktop Applications with Angular + Electron. 
 <br> <br>
-<b>Caution: I'm getting lots of security alerts for this repo. Run ```npm audit fix``` before using!</b>
+<b>Caution: I'm getting lots of security alerts for this repo. Run ```npm update && npm audit fix``` before using!</b>
 <br> <br>
 What I've done after ```ng new angular-electron-tpl```: 
 
